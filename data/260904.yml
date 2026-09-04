@@ -1,11 +1,13 @@
 about:
-  description: A small TUI application to monitor a single or multiple targets
+  description:
+  |
+    A small TUI application to monitor a single or multiple targets
   license: MIT
   homepage: 
   head: 285bfd3
   archived: false
   latestVersion: v0.4.1
-  collectedAt: 2026-09-04T04:37:27Z
+  collectedAt: 2026-09-04T19:36:28Z
 timeline:
   created: 2024-11-14
   lastCommit: 2026-08-01
@@ -16,16 +18,24 @@ popularity:
   fork: 3
   release: 7
   contributor: 3
-  pullRequest: 1
+  pullRequest: 36
   issue: 1
 language:
   Go: 18875
-totalLine: 18875
+totalBytes: 18875
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 2
     openPR: 1
     closedIssue: 0
     openIssue: 0
@@ -37,7 +47,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 6
+    commit: 0
   last180d:
     since: 2026-03-08
     release: 0
@@ -45,7 +55,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 10
+    commit: 0
   last360d:
     since: 2025-09-09
     release: 2
@@ -53,4 +63,22 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 22
+    commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 7
+    mergedPR: 35
+    openPR: 1
+    closedIssue: 1
+    openIssue: 0
+    commit: 48
+total:
+  release: 7
+  mergedPR: 35
+  openPR: 1
+  closedIssue: 1
+  openIssue: 0
+  commit: 48
+---
+---
+
