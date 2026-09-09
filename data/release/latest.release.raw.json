@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6638768,
       "digest": "sha256:f64dea83bd3c084b29d752d3f2623cc2dbdaab13255422bd3222fb223c5ccf74",
-      "download_count": 125,
+      "download_count": 127,
       "created_at": "2025-12-29T09:01:38Z",
       "updated_at": "2025-12-29T09:01:38Z",
       "browser_download_url": "https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7826448,
       "digest": "sha256:94128221bf4f8d1088ff357943c6e82880e25f38cb1c0363ad8c12687b9605fb",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2025-12-29T09:01:30Z",
       "updated_at": "2025-12-29T09:01:30Z",
       "browser_download_url": "https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-windows-amd64.tar.gz"
