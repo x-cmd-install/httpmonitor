@@ -22,7 +22,17 @@ x install httpmonitor
 - **Latest**: `v0.4.1` (2025-12-29)
 - **Last commit**: 2026-08-01
 - **Assets in release**: 6
-- **Published**: 2025-12-29T09:01:02Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [httpmonitor-darwin-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-darwin-amd64.tar.gz) | 6.2 MiB | `native/darwin/x64` |
+| [httpmonitor-darwin-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-darwin-arm64.tar.gz) | 5.8 MiB | `native/darwin/arm64` |
+| [httpmonitor-linux-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-linux-amd64.tar.gz) | 6.3 MiB | `native/linux/x64` |
+| [httpmonitor-linux-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-linux-arm64.tar.gz) | 5.8 MiB | `native/linux/arm64` |
+| [httpmonitor-windows-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-windows-amd64.tar.gz) | 7.5 MiB | `native/win/x64` |
+| [httpmonitor-windows-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-windows-arm64.tar.gz) | 6.8 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -54,8 +64,8 @@ Total: **607** lines of code across **8** files in the top 5 languages.
 Install metadata for httpmonitor lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `httpmonitor` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/httpmonitor.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/httpmonitor.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:10:17Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:58:26Z._

@@ -4,7 +4,7 @@
 
 A small TUI application to monitor a single or multiple targets
 
-![httpmonitor](https://repo.x-cmd.io/httpmonitor.svg)
+![httpmonitor](https://repo.x-cmd.io/httpmonitor.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,17 @@ x install httpmonitor
 - **最新版本**: `v0.4.1` (2025-12-29)
 - **最近提交**: 2026-08-01
 - **Release 含资产**: 6 个
-- **发布时间**: 2025-12-29T09:01:02Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [httpmonitor-darwin-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-darwin-amd64.tar.gz) | 6.2 MiB | `native/darwin/x64` |
+| [httpmonitor-darwin-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-darwin-arm64.tar.gz) | 5.8 MiB | `native/darwin/arm64` |
+| [httpmonitor-linux-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-linux-amd64.tar.gz) | 6.3 MiB | `native/linux/x64` |
+| [httpmonitor-linux-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-linux-arm64.tar.gz) | 5.8 MiB | `native/linux/arm64` |
+| [httpmonitor-windows-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-windows-amd64.tar.gz) | 7.5 MiB | `native/win/x64` |
+| [httpmonitor-windows-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-windows-arm64.tar.gz) | 6.8 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -58,4 +68,4 @@ httpmonitor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:10:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:58:26Z._
