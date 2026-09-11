@@ -12,6 +12,15 @@ A small TUI application to monitor a single or multiple targets
 x install httpmonitor
 ```
 
+## Code insight
+
+Total: **607** lines of code across **8** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 607 | 10 | 130 | 7 |
+| Markdown | 0 | 57 | 18 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ricoberger/httpmonitor>
@@ -22,17 +31,6 @@ x install httpmonitor
 - **Latest**: `v0.4.1` (2025-12-29)
 - **Last commit**: 2026-08-01
 - **Assets in release**: 6
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [httpmonitor-darwin-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-darwin-amd64.tar.gz) | 6.2 MiB | `native/darwin/x64` |
-| [httpmonitor-darwin-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-darwin-arm64.tar.gz) | 5.8 MiB | `native/darwin/arm64` |
-| [httpmonitor-linux-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-linux-amd64.tar.gz) | 6.3 MiB | `native/linux/x64` |
-| [httpmonitor-linux-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-linux-arm64.tar.gz) | 5.8 MiB | `native/linux/arm64` |
-| [httpmonitor-windows-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-windows-amd64.tar.gz) | 7.5 MiB | `native/win/x64` |
-| [httpmonitor-windows-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-windows-arm64.tar.gz) | 6.8 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -46,18 +44,23 @@ x install httpmonitor
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 4 | 1 | 0 | 0 | 6 |
-| 360d | 2025-09-15 | 2 | 14 | 1 | 0 | 0 | 22 |
+| 30d | 2026-08-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 2 | 1 | 0 | 0 | 5 |
+| 90d | 2026-06-13 | 0 | 4 | 1 | 0 | 0 | 6 |
+| last180d | 2026-03-15 | 0 | 6 | 1 | 0 | 0 | 10 |
+| 360d | 2025-09-16 | 2 | 14 | 1 | 0 | 0 | 22 |
+| last720d | 2024-09-21 | 7 | 35 | 1 | 1 | 0 | 48 |
 
-## Code size
+## Release assets
 
-Total: **607** lines of code across **8** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 607 | 10 | 130 | 7 |
-| Markdown | 0 | 57 | 18 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [httpmonitor-darwin-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-darwin-amd64.tar.gz) | 6.2 MiB | `native/darwin/x64` |
+| [httpmonitor-darwin-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-darwin-arm64.tar.gz) | 5.8 MiB | `native/darwin/arm64` |
+| [httpmonitor-linux-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-linux-amd64.tar.gz) | 6.3 MiB | `native/linux/x64` |
+| [httpmonitor-linux-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-linux-arm64.tar.gz) | 5.8 MiB | `native/linux/arm64` |
+| [httpmonitor-windows-amd64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-windows-amd64.tar.gz) | 7.5 MiB | `native/win/x64` |
+| [httpmonitor-windows-arm64.tar.gz](https://github.com/ricoberger/httpmonitor/releases/download/v0.4.1/httpmonitor-windows-arm64.tar.gz) | 6.8 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -68,4 +71,4 @@ Install metadata for httpmonitor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:58:26Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:05:59Z._
