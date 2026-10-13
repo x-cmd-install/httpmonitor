@@ -29,7 +29,7 @@ Total: **607** lines of code across **8** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.4.1` (2025-12-29)
-- **Last commit**: 2026-08-01
+- **Last commit**: 2026-10-13
 - **Assets in release**: 6
 
 ## Popularity
@@ -38,18 +38,18 @@ Total: **607** lines of code across **8** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 35 · **Open PRs**: 1 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 48
+- **Releases**: 7 · **Merged PRs**: 36 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 50
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-13 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-14 | 0 | 2 | 1 | 0 | 0 | 5 |
-| last180d | 2026-04-15 | 0 | 6 | 1 | 0 | 0 | 9 |
-| 360d | 2025-10-17 | 1 | 11 | 1 | 0 | 0 | 17 |
-| last720d | 2024-10-22 | 7 | 35 | 1 | 1 | 0 | 48 |
+| 30d | 2026-09-13 | 0 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-14 | 0 | 1 | 0 | 0 | 0 | 2 |
+| 90d | 2026-07-15 | 0 | 3 | 0 | 0 | 0 | 7 |
+| last180d | 2026-04-16 | 0 | 7 | 0 | 0 | 0 | 11 |
+| 360d | 2025-10-18 | 1 | 12 | 0 | 0 | 0 | 19 |
+| last720d | 2024-10-23 | 7 | 36 | 0 | 1 | 0 | 50 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for httpmonitor lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:22:54Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:12:47Z._
